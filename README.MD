@@ -22,10 +22,6 @@ The robots had been instructed to work out how to negotiate between themselves, 
 2. sentence always consists of 9 characters from the chat bot alphabet, never less and never more
 3. chat bots never pronounce the same sentence more than once, hence there are no duplicates in their conversation
 
-1. alphabet consists of 8 characters`ABCD1234`
-2. sentence always consists of 5 characters from the chat bot alphabet, never less and never more
-3. chat bots never pronounce the same sentence more than once, hence there are no duplicates in their conversation
-
 Here are a couple of examples of chat bot sentences collected by your colleagues:
 
  - RSWW1KS2S
