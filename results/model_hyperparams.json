@@ -1,0 +1,25 @@
+{
+  "dl": {
+    "CharRNN": {
+    },
+    "CharLSTM": {
+    },
+    "NextCharLSTM": {
+    },
+    "CharCNN": {
+    },
+    "CharCNNYLecun": {
+    },
+    "BiTriGramLSTM": {
+    }
+  },
+  "sklearn": {
+    "SVM": {
+      "C": [0.80],
+      "kernel": "rbf"
+    },
+    "MultinomialNB": {
+      "alpha": 1.0
+    }
+  }
+}

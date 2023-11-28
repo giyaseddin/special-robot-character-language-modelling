@@ -1,0 +1,27 @@
+Summary of Model Performances on Val Set:
+
+CharRNN:
+  - Average Precision: 0.38
+  - Average Recall: 0.38
+  - Average F1-Score: 0.36
+
+CharLSTM:
+  - Average Precision: 0.31
+  - Average Recall: 0.33
+  - Average F1-Score: 0.30
+
+NextCharLSTM:
+  - Average Precision: 0.53
+  - Average Recall: 0.45
+  - Average F1-Score: 0.46
+
+CharCNN:
+  - Average Precision: 0.25
+  - Average Recall: 0.23
+  - Average F1-Score: 0.23
+
+CharCNNYLecun:
+  - Average Precision: 0.20
+  - Average Recall: 0.19
+  - Average F1-Score: 0.18
+

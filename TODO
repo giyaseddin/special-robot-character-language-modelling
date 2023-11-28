@@ -1,0 +1,24 @@
+[x] - Establish the project structure
+[] - commit notebooks into a new branch
+[] - write docs & initial train loop and utils
+[] - commit
+[] - establish result reporting and eval functions
+[] - commit
+[] - script for training & predicting from a controllable params
+[] - commit
+[] - test utils
+[] - commit
+[] - add the most basic models and get results
+[] - commit
+[] - complete evaluations
+[] - commit
+[] - add the other models and get results
+[] - commit
+[] - write code docs
+[] - commit
+[] - write presentation
+[] - commit
+[] - Submit
+
+
+analysis + visualization

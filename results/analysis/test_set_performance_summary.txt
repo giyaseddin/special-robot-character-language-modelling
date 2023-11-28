@@ -1,0 +1,27 @@
+Summary of Model Performances on Test Set:
+
+CharRNN:
+  - Average Precision: 0.61
+  - Average Recall: 0.65
+  - Average F1-Score: 0.62
+
+CharLSTM:
+  - Average Precision: 0.60
+  - Average Recall: 0.61
+  - Average F1-Score: 0.59
+
+NextCharLSTM:
+  - Average Precision: 0.44
+  - Average Recall: 0.35
+  - Average F1-Score: 0.37
+
+CharCNN:
+  - Average Precision: 0.50
+  - Average Recall: 0.48
+  - Average F1-Score: 0.48
+
+CharCNNYLecun:
+  - Average Precision: 0.58
+  - Average Recall: 0.57
+  - Average F1-Score: 0.55
+
